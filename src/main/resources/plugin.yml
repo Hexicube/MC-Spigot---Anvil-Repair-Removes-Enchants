@@ -1,4 +1,8 @@
 name: AnvilEnchantWear
-version: 1
-author: Hexicube
+description: Anvils now have a chance of removing Enchantments on items, and the level cost depends on the number of Enchantments.
+version: 1.0.1
+author: Hexicube#0102
+website: https://github.com/Hexicube/MC-Spigot---Anvil-Repair-Removes-Enchants
+
 main: hexicube.minecraft.AnvilEnchantWear.AnvilEnchantWear
+api-version: 1.16
